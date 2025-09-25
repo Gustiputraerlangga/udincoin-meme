@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Udin Coin</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <!-- Ganti <username> dan <repo> sesuai GitHub kamu -->
+    <img src="https://raw.githubusercontent.com/<username>/<repo>/main/logo.png" 
+         alt="Udin Logo" class="logo">
+    <h1>Welcome to Udin Coin</h1>
+    <p>The meme coin of the future, built on Solana 🚀</p>
+  </header>
+
+  <main>
+    <section class="about">
+      <h2>About Udin</h2>
+      <p>Udin Coin ($UDIN) adalah meme coin yang hadir untuk komunitas. 
+      Lucu, simpel, dan penuh kejutan. Join the revolution dan jadi bagian dari keluarga Udin!</p>
+    </section>
+
+    <section class="links">
+      <h2>Join Our Community</h2>
+      <a href="https://x.com/udinfinance?s=21" target="_blank" class="btn">Follow us on X</a>
+      <a href="https://t.me/+lpK5qR_TnPM0OGI1" target="_blank" class="btn">Join Telegram</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Udin Coin. All rights reserved.</p>
+  </footer>
+</body>
+</html>
